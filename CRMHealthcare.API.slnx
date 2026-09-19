@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CRMHealthcare.API/CRMHealthcare.API.csproj" />
+  <Project Path="CRMHealthcare.Application/CRMHealthcare.Application.csproj" />
+  <Project Path="CRMHealthcare.Domain/CRMHealthcare.Domain.csproj" />
+  <Project Path="CRMHealthcare.Infrastructure/CRMHealthcare.Infrastructure.csproj" />
+</Solution>
